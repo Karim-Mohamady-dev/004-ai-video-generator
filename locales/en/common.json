@@ -1,0 +1,276 @@
+{
+  "brand": "Reelcraft",
+  "brandMark": "R",
+  "nav": {
+    "items": [
+      {
+        "label": "Use cases",
+        "href": "#examples"
+      },
+      {
+        "label": "How it works",
+        "href": "#how"
+      },
+      {
+        "label": "Pricing",
+        "href": "#pricing"
+      },
+      {
+        "label": "FAQ",
+        "href": "#faq"
+      }
+    ],
+    "cta": "Make your first video"
+  },
+  "hero": {
+    "eyebrow": "AI video generator",
+    "titleA": "Turn words",
+    "titleB": "into video",
+    "sub": "Reelcraft turns text and still images into short video clips for social, ads and lessons, with captions and motion built in.",
+    "cta": "Make your first video",
+    "proof": "Free to try · No card needed · Captions included"
+  },
+  "tagline": "Every idea deserves motion, not just words on a page.",
+  "benefits": {
+    "eyebrow": "Why Reelcraft",
+    "title": "Short video without a camera or an editing timeline",
+    "sub": "Built for makers who need a clip today, not a shoot and a week of edits.",
+    "items": [
+      {
+        "icon": "film",
+        "title": "Text to video in minutes",
+        "text": "Type what you want to say and get a short clip with motion, captions and pacing."
+      },
+      {
+        "icon": "image",
+        "title": "From still images too",
+        "text": "Upload a photo and Reelcraft adds motion, zooms and transitions around it."
+      },
+      {
+        "icon": "chat",
+        "title": "Captions in your language",
+        "text": "Captions are generated with the clip, so viewers can follow with the sound off."
+      },
+      {
+        "icon": "clock",
+        "title": "Ready for every feed",
+        "text": "Export in the sizes your feed needs, vertical, square or wide."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "How it works",
+    "title": "From a sentence to a finished clip",
+    "sub": "",
+    "steps": [
+      {
+        "title": "Write your script",
+        "text": "Type the words or paste a short script for your clip."
+      },
+      {
+        "title": "Pick a length and style",
+        "text": "Choose the clip length and the look that fits your feed."
+      },
+      {
+        "title": "Preview and download",
+        "text": "Watch the preview, adjust the captions, and download your clip."
+      }
+    ]
+  },
+  "demo": {
+    "textLabel": "Your script",
+    "textPlaceholder": "A 15 second intro for a bakery: warm light, fresh bread, morning rush",
+    "lengths": [
+      "15 seconds",
+      "30 seconds",
+      "60 seconds"
+    ],
+    "lengthLabel": "Clip length",
+    "generate": "Generate video",
+    "generating": "Generating",
+    "textError": "Please write a script of at least 3 characters.",
+    "empty": "Write a script and press generate to preview your clip.",
+    "playerLabel": "Video preview",
+    "play": "Play",
+    "pause": "Pause",
+    "ready": "Your clip is ready",
+    "loading": "Generating your video"
+  },
+  "examples": {
+    "eyebrow": "Use cases",
+    "title": "One tool, four kinds of clips",
+    "sub": "Pick a use case to see what each clip includes.",
+    "tabLabel": "Use cases",
+    "cases": [
+      {
+        "title": "Social clips",
+        "text": "Short vertical clips that open with the point and end with a clear next step.",
+        "points": [
+          "Vertical format for feeds and stories",
+          "Captions on by default",
+          "Opening hook in the first two seconds"
+        ]
+      },
+      {
+        "title": "Product ads",
+        "text": "Show the product in use, with a short line of copy and a price callout.",
+        "points": [
+          "Product shots with gentle motion",
+          "Price and offer callouts",
+          "Square and vertical exports"
+        ]
+      },
+      {
+        "title": "Lessons",
+        "text": "Turn a short lesson into a clip students can replay at their own pace.",
+        "points": [
+          "Calm pacing for learning",
+          "Captions in the lesson language",
+          "Chapters for longer topics"
+        ]
+      },
+      {
+        "title": "Explainers",
+        "text": "Explain one idea in under a minute, with simple visuals and a steady voice.",
+        "points": [
+          "One idea per clip",
+          "Simple visuals, no clutter",
+          "Voiceover or captions, your choice"
+        ]
+      }
+    ]
+  },
+  "proof": {
+    "eyebrow": "Early makers",
+    "title": "What makers say after trying the demo",
+    "sub": "Sample comments shared during early testing.",
+    "items": [
+      {
+        "quote": "I turned a product description into a 30 second ad in one afternoon.",
+        "name": "Hana Youssef",
+        "role": "Shop owner, Linen & Thread (sample)"
+      },
+      {
+        "quote": "The captions alone save me an hour per video.",
+        "name": "Mostafa Ali",
+        "role": "Course creator (sample)"
+      },
+      {
+        "quote": "My lesson clips finally look the same every week, and students notice.",
+        "name": "Rania Samir",
+        "role": "Teacher (sample)"
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "Simple plans for every maker",
+    "sub": "Prices are placeholders until final pricing is confirmed.",
+    "note": "All prices are shown as {{price}} placeholders. Final pricing is confirmed before you pay.",
+    "tiers": [
+      {
+        "name": "Starter",
+        "price": "{{price_starter}}",
+        "per": "per month, billed monthly",
+        "features": [
+          "3 video clips per month",
+          "720p exports",
+          "Captions in one language",
+          "Watermark included"
+        ],
+        "cta": "Start free"
+      },
+      {
+        "name": "Creator",
+        "price": "{{price_creator}}",
+        "per": "per month, billed monthly",
+        "features": [
+          "30 video clips per month",
+          "1080p exports",
+          "Captions in 5 languages",
+          "No watermark",
+          "Commercial use"
+        ],
+        "cta": "Start free"
+      },
+      {
+        "name": "Studio",
+        "price": "{{price_studio}}",
+        "per": "per month, billed monthly",
+        "features": [
+          "Unlimited clips",
+          "4K exports",
+          "Team seats included",
+          "Priority rendering",
+          "Dedicated support"
+        ],
+        "cta": "Talk to us"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "Is Reelcraft free to try?",
+        "a": "Yes. You can generate a preview clip on this page without an account."
+      },
+      {
+        "q": "How long can a clip be?",
+        "a": "Demo clips run up to 60 seconds. Longer clips are part of the paid plans."
+      },
+      {
+        "q": "Can I use my own images?",
+        "a": "Yes. Upload still images and Reelcraft adds motion, zooms and transitions around them."
+      },
+      {
+        "q": "Are captions included?",
+        "a": "Yes. Captions are generated with every clip and you can edit the text before export."
+      },
+      {
+        "q": "Can I use clips commercially?",
+        "a": "Yes, clips made on paid plans can be used in ads and commercial work."
+      },
+      {
+        "q": "What formats can I export?",
+        "a": "Vertical, square and wide, in MP4, ready for the feed you publish to."
+      }
+    ]
+  },
+  "final": {
+    "title": "Make your first video today",
+    "sub": "Type a script, press generate, and watch your words move.",
+    "note": "No card needed. Captions included."
+  },
+  "form": {
+    "name": "Your name",
+    "email": "Work email",
+    "namePlaceholder": "e.g. Maya Haddad",
+    "emailPlaceholder": "you@example.com",
+    "nameError": "Please enter your name.",
+    "emailError": "Please enter a valid email address.",
+    "success": "Thank you. Check your inbox for your invite.",
+    "submit": "Make your first video"
+  },
+  "footer": {
+    "tagline": "Turn words into video.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "privacyText": "Reelcraft stores only the account details you provide and the clips you save. Demo scripts stay in your browser and are never sent to a server. You can delete your account and clips at any time.",
+    "termsText": "Reelcraft is provided as is for video generation. You own the clips you create from your scripts. Final pricing, limits and availability are confirmed on the pricing page before you pay.",
+    "rights": "© 2026 Reelcraft. All rights reserved.",
+    "back": "Back to top"
+  },
+  "common": {
+    "skip": "Skip to content",
+    "switchLanguage": "Switch language",
+    "menu": "Menu",
+    "close": "Close",
+    "cookieTitle": "Cookies",
+    "cookie": "We use a small cookie to remember your language choice and your cookie consent.",
+    "cookieAccept": "Accept",
+    "notFoundTitle": "This page is not here",
+    "notFoundText": "The link you followed may be wrong, or the page may have moved.",
+    "notFoundBack": "Back to the homepage"
+  }
+}
